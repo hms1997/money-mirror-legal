@@ -1,6 +1,6 @@
 # Privacy Policy — Money Lens
 
-  **Last updated: April 25, 2026**
+  **Last updated: April 27, 2026**
 
   Money Lens ("we", "our", or "the app") is a personal finance app that reads
   bank transaction SMS to help you understand your spending. This Privacy Policy
@@ -122,7 +122,7 @@
 
   ### How to request data deletion
 
-  Send an email to **himangshub009@gmail.com** with the subject line
+  Send an email to **moneylensapp@gmail.com** with the subject line
   **"Data Deletion Request – Money Lens"** and include the email address
   registered to your account. We will confirm and permanently delete your data
   within 7 days.
@@ -151,7 +151,7 @@
   If you have any questions, concerns, or requests regarding this Privacy Policy
   or your data, please contact us:
 
-  **Email:** himangshub009@gmail.com
+  **Email:** moneylensapp@gmail.com
 
   ---
 
