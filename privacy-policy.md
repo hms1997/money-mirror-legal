@@ -1,12 +1,12 @@
-# Privacy Policy — Money Mirror
+# Privacy Policy — Money Lens
 
   **Last updated: April 25, 2026**
 
-  Money Mirror ("we", "our", or "the app") is a personal finance app that reads
+  Money Lens ("we", "our", or "the app") is a personal finance app that reads
   bank transaction SMS to help you understand your spending. This Privacy Policy
   explains what data we collect, how we use it, and your rights.
 
-  By using Money Mirror, you agree to the practices described in this policy.
+  By using Money Lens, you agree to the practices described in this policy.
 
   ---
 
@@ -57,7 +57,7 @@
 
   ## 3. SMS Access
 
-  Money Mirror requests permission to read SMS messages on your device. We use
+  Money Lens requests permission to read SMS messages on your device. We use
   this access to detect and parse bank transaction messages in real time and from
   your recent inbox (last 90 days at first launch).
 
@@ -123,7 +123,7 @@
   ### How to request data deletion
 
   Send an email to **himangshub009@gmail.com** with the subject line
-  **"Data Deletion Request – Money Mirror"** and include the email address
+  **"Data Deletion Request – Money Lens"** and include the email address
   registered to your account. We will confirm and permanently delete your data
   within 7 days.
 
@@ -131,7 +131,7 @@
 
   ## 9. Children's Privacy
 
-  Money Mirror is not directed at children under 13 years of age. We do not
+  Money Lens is not directed at children under 13 years of age. We do not
   knowingly collect personal information from children. If you believe a child
   has provided us with personal data, please contact us and we will delete it
   promptly.
@@ -155,7 +155,7 @@
 
   ---
 
-  *Money Mirror is an independent app. It is not affiliated with any bank or
+  *Money Lens is an independent app. It is not affiliated with any bank or
   financial institution.*
 
   ---
